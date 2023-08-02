@@ -224,8 +224,3 @@ Distributed under the GPL3.0 License. See `LICENSE` file for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-<a name="contact"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
